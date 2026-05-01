@@ -26,10 +26,6 @@ The data tier — Azure SQL, Storage, and Key Vault — has **public network acc
 
 ---
 
-## 🏗️ Architecture
-
-![Architecture Diagram](docs/images/01-architecture-diagram.png)
-
 ### Network layout
 
 ```
