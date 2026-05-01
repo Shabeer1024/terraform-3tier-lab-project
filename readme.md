@@ -12,7 +12,7 @@
 
 ## 🎯 Overview
 
-This repository deploys a **complete 3-tier web application architecture** in Azure using modular Terraform, demonstrating enterprise-grade security patterns required by regulated industries (banking, healthcare, government).
+This repository deploys a **complete 3-tier web application architecture** in Azure using modular Terraform, demonstrating enterprise-grade security patterns required by regulated industries.
 
 The data tier — Azure SQL, Storage, and Key Vault — has **public network access completely disabled** and is only reachable through Private Endpoints inside a VNet. 
 
@@ -72,7 +72,7 @@ vnet-3tlab (10.0.0.0/16)
 
 ### The compliance problem
 
-In banking, healthcare, or any regulated industry, you **cannot** have customer data in a database with a public IP — even if it's "firewalled" or password-protected. Compliance auditors require **architectural isolation**, not just access control.
+You **cannot** have customer data in a database with a public IP — even if it's "firewalled" or password-protected. Compliance auditors require **architectural isolation**, not just access control.
 
 ### Common (wrong) approaches
 
@@ -409,7 +409,7 @@ Azure Cloud Enthusiast ☁️ | CloudOps  | Exploring Azure Administration | AVD
 🔗 [LinkedIn](https://linkedin.com/in/shabeer1024) | 🐙 [GitHub](https://github.com/Shabeer1024)
 
 ### Background
-- 13+ years in enterprise IT, currently supporting a UAE-based banking client
+- 13+ years in enterprise IT
 - Azure certifications: AZ-140, AZ-700, ITIL V4
 - Pursuing: AZ-305, HashiCorp Terraform Associate
 - Focus areas: Azure landing zones, identity-governed automation, secure cloud networking
