@@ -13,7 +13,7 @@
 
 This repository deploys a **complete 3-tier web application architecture** in Azure using modular Terraform, demonstrating enterprise-grade security patterns required by regulated industries (banking, healthcare, government).
 
-The data tier — Azure SQL, Storage, and Key Vault — has **public network access completely disabled** and is only reachable through Private Endpoints inside a VNet. This is the same pattern used in production banking environments to satisfy compliance frameworks like PCI DSS, HIPAA, and UAE Central Bank guidelines.
+The data tier — Azure SQL, Storage, and Key Vault — has **public network access completely disabled** and is only reachable through Private Endpoints inside a VNet. 
 
 ### What gets deployed
 
