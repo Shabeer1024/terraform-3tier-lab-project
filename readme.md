@@ -9,24 +9,6 @@
 
 ---
 
-## 📖 Table of Contents
-
-- [Overview](#-overview)
-- [Architecture](#-architecture)
-- [Why This Pattern Matters](#-why-this-pattern-matters)
-- [Project Structure](#-project-structure)
-- [Prerequisites](#-prerequisites)
-- [Quick Start](#-quick-start)
-- [Verification Tests](#-verification-tests)
-- [How It Works](#-how-it-works)
-- [Cost Analysis](#-cost-analysis)
-- [Lessons Learned](#-lessons-learned)
-- [Cleanup](#-cleanup)
-- [Roadmap](#-roadmap)
-- [Author](#-author)
-
----
-
 ## 🎯 Overview
 
 This repository deploys a **complete 3-tier web application architecture** in Azure using modular Terraform, demonstrating enterprise-grade security patterns required by regulated industries (banking, healthcare, government).
