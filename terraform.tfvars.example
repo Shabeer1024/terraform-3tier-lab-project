@@ -1,0 +1,6 @@
+prefix             = "3tlab"
+location           = "southeastasia"
+my_home_ip         = ""
+sql_admin_password = "dummy-password-for-demo"
+
+ssh_public_key = "ur public key"
