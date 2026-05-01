@@ -410,8 +410,7 @@ Azure Cloud Enthusiast ☁️ | CloudOps  | Exploring Azure Administration | AVD
 
 ### Background
 - 13+ years in enterprise IT
-- Azure certifications: AZ-140, AZ-700, ITIL V4
-- Pursuing: AZ-305, HashiCorp Terraform Associate
+- Azure certifications: AZ-140, AZ-700, ITIL V4, AZ-305, HashiCorp Terraform Associate 
 - Focus areas: Azure landing zones, identity-governed automation, secure cloud networking
 
 ---
